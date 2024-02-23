@@ -1,0 +1,27 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 350px;
+}
+
+.orange, .white, .green{
+    height: 200px;
+    width: 900px;
+}
+
+.orange{
+    background-color: #f45c24
+    ;
+}
+
+.white{
+    background-color: white;
+    z-index: -1;
+    position: relative;
+}
+
+.green{
+    background-color: #006931;
+}
